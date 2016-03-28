@@ -9,7 +9,7 @@ cd vue-dialog
 
 npm3 install
 
-npm run server
+npm start
 ```
 
 Open your browser, enter `http://localhost:9876/demo/dialog.html`

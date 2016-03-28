@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
     "test": "./node_modules/karma/bin/karma start karma.conf.js",
-    "server": "webpack-dev-server --port 9876 --host 0.0.0.0"
+    "start": "webpack-dev-server --port 9876 --host 0.0.0.0"
   },
   "repository": {
     "type": "git",
