@@ -7,7 +7,7 @@ git clone git@github.com:zhouweicsu/vue-dialog.git
 
 cd vue-dialog
 
-npm3 install
+npm install
 
 npm start
 ```
